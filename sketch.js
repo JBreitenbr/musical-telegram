@@ -1,6 +1,6 @@
 let gui;
 let recorder=[];
-let settings={res:0.001,alpha:128,nFrames:50};
+let settings={res:0.0104,alpha:128,nFrames:50};
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0);
